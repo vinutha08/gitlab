@@ -1,6 +1,10 @@
 #include<stdio.h>
 main()
 {
-add();
+add()
+{
+printf(12+2);
+}
+  
 sub();
 }
